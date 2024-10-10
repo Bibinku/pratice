@@ -8,6 +8,8 @@ elif b>a and b>c:
     print(" B is Larger ")
 elif c>a and c>b:
     print(" C is Larger")
+elif b>a and b>c:
+    print(" commit done ")
 else :
     print(" All are equal")
 
